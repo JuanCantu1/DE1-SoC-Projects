@@ -10,7 +10,7 @@ This repository contains a collection of projects I have completed and am curren
 
 ## Simple Counter
 ### Introduction
-In this project, I followed the SE1-SoC "My First FPGA" guide, which can be found [here](http://www.ee.ic.ac.uk/pcheung/teaching/msc_experiment/My_First_Fpga.pdf).
+In this project, I followed the DE1-SoC "My First FPGA" guide, which can be found [here](http://www.ee.ic.ac.uk/pcheung/teaching/msc_experiment/My_First_Fpga.pdf).
 
 ### Project Details
 Using Intel Quartus Prime, I implemented a simple counter on the DE1-SoC board. The counter increments every second and displays the count on the onboard LEDs.
