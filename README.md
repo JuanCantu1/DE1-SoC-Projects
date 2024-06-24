@@ -1,25 +1,48 @@
-# DE1-SoC-Projects
+# DE1-SoC Projects
 
-# Inroduction
-This repository contains project I have completed and am working on using the DE1-SoC board. 
+## Introduction
+This repository contains a collection of projects I have completed and am currently working on using the DE1-SoC development board. Each project showcases different features and capabilities of the board, providing hands-on experience with FPGA and SoC development.
 
-# Table of contents
-  1) Simple Counter
-  2) Project 2
-  3) Project 3
+## Table of Contents
+1. [Simple Counter](#simple-counter)
+2. [Project 2](#project-2)
+3. [Project 3](#project-3)
 
-# Simple Counter
-Introduction: In this project I followed the SE1-SoC My First FPGA Guide, this can be found here (http://www.ee.ic.ac.uk/pcheung/teaching/msc_experiment/My_First_Fpga.pdf).
+## Simple Counter
+### Introduction
+In this project, I followed the SE1-SoC "My First FPGA" guide, which can be found [here](http://www.ee.ic.ac.uk/pcheung/teaching/msc_experiment/My_First_Fpga.pdf).
 
-In this project I used Intel Quartus Prime to...
+### Project Details
+Using Intel Quartus Prime, I implemented a simple counter on the DE1-SoC board. The counter increments every second and displays the count on the onboard LEDs.
 
-Conclusion: In doing this project I learned...
+### Conclusion
+Through this project, I gained a deeper understanding of FPGA programming and the basics of digital design using Intel Quartus Prime.
 
-Demo:
+### Demo
+![DE1-SoC Counter Demo](path_to_your_demo_video_or_gif)
 
+## Project 2
+### Introduction
+(Provide a brief description of Project 2.)
 
-Uploading DE1-SoC_Counter.mp4…
+### Project Details
+(Describe what you did in Project 2, the tools used, and the outcomes.)
 
-# Project 2
+### Conclusion
+(Summarize what you learned or achieved in Project 2.)
 
-# Project 3
+### Demo
+(Include any relevant images, videos, or links to your demo for Project 2.)
+
+## Project 3
+### Introduction
+(Provide a brief description of Project 3.)
+
+### Project Details
+(Describe what you did in Project 3, the tools used, and the outcomes.)
+
+### Conclusion
+(Summarize what you learned or achieved in Project 3.)
+
+### Demo
+(Include any relevant images, videos, or links to your demo for Project 3.)
