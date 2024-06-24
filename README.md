@@ -47,4 +47,3 @@ https://github.com/JuanCantu1/DE1-SoC-Projects/assets/109363196/fecd400f-9c70-4e
 ### Demo
 (Include any relevant images, videos, or links to your demo for Project 3.)
 
-https://github.com/JuanCantu1/DE1-SoC-Projects/assets/109363196/fecd400f-9c70-4ee5-812c-b53407f53fb0
