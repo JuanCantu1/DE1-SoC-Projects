@@ -5,7 +5,7 @@ This repository contains a collection of projects I have completed and am curren
 
 ## Table of Contents
 1. [Simple Counter](#simple-counter)
-2. [Calculator](#Calculator (Ongoing))
+2. [Calculator](#Calculator "Ongoing")
 3. [Project 3](#project-3)
 
 ## Simple Counter
@@ -21,7 +21,7 @@ Through this project, I gained a deeper understanding of FPGA programming and th
 ### Demo
 https://github.com/JuanCantu1/DE1-SoC-Projects/assets/109363196/fecd400f-9c70-4ee5-812c-b53407f53fb0
 
-## Calculator (Ongoing)
+## Calculator "Ongoing"
 ### Introduction
 This project involves using the DE1-SoC board to perform basic arithmetic operations (addition, subtraction, multiplication, division) on two base-10 numbers. The user will interact with the system through a computer console for number input and use the board's key buttons to select the arithmetic operation. The FPGA will handle input selection and display, while the ARM processor will handle the arithmetic operations using C.
 
