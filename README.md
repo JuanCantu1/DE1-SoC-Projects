@@ -19,7 +19,7 @@ Using Intel Quartus Prime, I implemented a simple counter on the DE1-SoC board. 
 Through this project, I gained a deeper understanding of FPGA programming and the basics of digital design using Intel Quartus Prime.
 
 ### Demo
-![DE1-SoC Counter Demo](https://github.com/JuanCantu1/DE1-SoC-Projects/assets/109363196/fecd400f-9c70-4ee5-812c-b53407f53fb0)
+https://github.com/JuanCantu1/DE1-SoC-Projects/assets/109363196/fecd400f-9c70-4ee5-812c-b53407f53fb0
 
 ## Project 2
 ### Introduction
@@ -47,8 +47,4 @@ Through this project, I gained a deeper understanding of FPGA programming and th
 ### Demo
 (Include any relevant images, videos, or links to your demo for Project 3.)
 
-
-
 https://github.com/JuanCantu1/DE1-SoC-Projects/assets/109363196/fecd400f-9c70-4ee5-812c-b53407f53fb0
-
-
