@@ -5,7 +5,7 @@ This repository contains a collection of projects I have completed and am curren
 
 ## Table of Contents
 1. [Simple Counter](#simple-counter)
-2. [Calculator](#Calculator "Ongoing")
+2. [Calculator](#Calculator-"Ongoing")
 3. [Project 3](#project-3)
 
 ## Simple Counter
