@@ -4,11 +4,11 @@
 This repository contains a collection of projects I have completed and am currently working on using the DE1-SoC development board. Each project showcases different features and capabilities of the board, providing hands-on experience with FPGA and SoC development.
 
 ## Table of Contents
-1. [Simple Counter](#simple-counter)
+1. [Simple Counter](#simple-counter-my-first-fpga)
 2. [Hello World, My First HPS](#hello-world-my-first-hps-in-progress)
 3. [Calculator](#calculator-planned)
 
-## Simple Counter
+## Simple Counter, My First FPGA
 ### Introduction
 In this project, I followed the DE1-SoC "My First FPGA" guide, which can be found [here](http://www.ee.ic.ac.uk/pcheung/teaching/msc_experiment/My_First_Fpga.pdf).
 
