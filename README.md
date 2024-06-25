@@ -53,6 +53,7 @@ This project provided a foundational understanding of programming the HPS on the
 ### Demo
 
 ---
+---
 
 ## Calculator "Planned"
 ### Introduction
