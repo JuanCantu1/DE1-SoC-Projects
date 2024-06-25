@@ -6,7 +6,7 @@ This repository contains a collection of projects I have completed and am curren
 ## Table of Contents
 1. [Simple Counter](#simple-counter)
 2. [Calculator](#calculator-ongoing)
-3. [Project 3](#project-3)
+3. [Hello World, My First HPS](#hello-world-my-first-hps)
 
 ## Simple Counter
 ### Introduction
@@ -64,15 +64,30 @@ Upon completion, this project will provide a thorough understanding of both FPGA
 
 ### Demo
 
-## Project 3
+## Hello World, My First HPS
 ### Introduction
-(Provide a brief description of Project 3.)
+This project is a simple introduction to programming the Hard Processor System (HPS) on the DE1-SoC board. The objective is to create a "Hello World" program that runs on the ARM processor within the SoC.
 
 ### Project Details
-(Describe what you did in Project 3, the tools used, and the outcomes.)
+Using the ARM DS-5 toolchain and the DE1-SoC development environment, I wrote a basic "Hello World" program in C. This program initializes the HPS, prints "Hello World" to the console, and demonstrates the basic setup and execution of a program on the HPS.
+
+#### Steps:
+1. **Setup Development Environment:**
+   - Installed the necessary software tools, including Intel SoC EDS and ARM DS-5.
+   - Configured the development environment for the DE1-SoC board.
+
+2. **Write the Program:**
+   - Created a new C project in DS-5.
+   - Wrote a simple "Hello World" program to print a message to the console.
+
+3. **Compile and Load:**
+   - Compiled the program using the DS-5 toolchain.
+   - Loaded the executable onto the DE1-SoC board.
+
+4. **Run the Program:**
+   - Ran the program on the HPS and observed the "Hello World" message on the console.
 
 ### Conclusion
-(Summarize what you learned or achieved in Project 3.)
+This project provided a foundational understanding of programming the HPS on the DE1-SoC board. It familiarized me with the development tools and the process of setting up, compiling, and running a program on the HPS, serving as a stepping stone for more advanced projects.
 
 ### Demo
-(Include any relevant images, videos, or links to your demo for Project 3.)
