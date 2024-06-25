@@ -22,6 +22,7 @@ Through this project, I gained a deeper understanding of FPGA programming and th
 https://github.com/JuanCantu1/DE1-SoC-Projects/assets/109363196/fecd400f-9c70-4ee5-812c-b53407f53fb0
 
 ---
+---
 
 ## Hello World, My First HPS "In Progress"
 ### Introduction
