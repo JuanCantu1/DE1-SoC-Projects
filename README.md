@@ -5,7 +5,7 @@ This repository contains a collection of projects I have completed and am curren
 
 ## Table of Contents
 1. [Simple Counter](#simple-counter)
-2. [Hello World, My First HPS](#hello-world-my-first-hps-in-progess)
+2. [Hello World, My First HPS](#hello-world-my-first-hps-in-progress)
 3. [Calculator](#calculator-planned)
 
 ## Simple Counter
