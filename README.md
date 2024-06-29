@@ -51,7 +51,7 @@ Using the ARM DS-5 toolchain and the DE1-SoC development environment, I wrote a 
 This project provided a foundational understanding of programming the HPS on the DE1-SoC board. It familiarized me with the development tools and the process of setting up, compiling, and running a program on the HPS, serving as a stepping stone for more advanced projects.
 
 ### Demo
-
+In progess, now can use Linux using PuTTY...  
 ---
 ---
 
